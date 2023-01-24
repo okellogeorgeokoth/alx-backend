@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Module 2-hypermedia_pagination
+lfu
 """
 import csv
 import math
