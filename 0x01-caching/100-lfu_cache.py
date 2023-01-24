@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+
+"""
+Module 2-hypermedia_pagination
+"""
+import csv
+import math
+from typing import List
+
 def put(self, key, item):
     if key is None or item is None:
         return None
